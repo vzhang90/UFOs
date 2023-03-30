@@ -5,7 +5,8 @@ webpage: [https://vzhang90.github.io/UFOs/](https://vzhang90.github.io/UFOs/)
 Utilizing JavaScript and HTML, this project will create a webage with a filtered data table to provide a more in-depth analysis of UFO sightings.
 
 ## Results
-On the left hand side of the webpage, users will have 5 different search boxes to filter UFO sightings based on date, city, state, country, and shape. 
+On the left hand side of the webpage, users will have 5 different search boxes to filter UFO sightings based on date, city, state, country, and shape.  
+
 *As shown in the image example below of the webpage:*
 ![UFOwebpage](https://github.com/vzhang90/UFOs/blob/main/static/images/UFO_webpage.png)
 
