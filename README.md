@@ -9,3 +9,5 @@ On the left hand side of the webpage, users will have 5 different search boxes t
 
 ## Summary
 This webpage offers a structured way to organize data, comparable to excel's pivot tables. However, a shortcoming of its functionality is that it does not link additional information to each listed UFO sighting. 
+
+Regarding future development, there are two suggestions that could be effective. The first is to add a general search filter that can search across all categories and gather any matching data found. The second is to improve the filter for specific data, particularly in the city header, which is currently the least accessible compared to the other filters.
